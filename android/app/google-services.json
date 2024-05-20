@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "78140454630",
+    "project_id": "easybud-89aef",
+    "storage_bucket": "easybud-89aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78140454630:android:17d349fe5f8cdc0386ad27",
+        "android_client_info": {
+          "package_name": "com.easybill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78140454630-446o9lrkher5l6le2k1n6vocfh074ato.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJMRYGfcds1VjguJjOP-AUSlap8R0lpqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78140454630-446o9lrkher5l6le2k1n6vocfh074ato.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "78140454630-sfqb5v3locqi0497hgll2acu2gfhr60p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AwesomeProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78140454630:android:bbaf0830be16e56486ad27",
+        "android_client_info": {
+          "package_name": "com.expensifind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78140454630-446o9lrkher5l6le2k1n6vocfh074ato.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJMRYGfcds1VjguJjOP-AUSlap8R0lpqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78140454630-446o9lrkher5l6le2k1n6vocfh074ato.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "78140454630-sfqb5v3locqi0497hgll2acu2gfhr60p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AwesomeProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
